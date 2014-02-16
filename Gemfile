@@ -28,3 +28,7 @@ gem 'padrino', '0.11.3'
 # %w(core gen helpers cache mailer admin).each do |g|
 #   gem 'padrino-' + g, '0.11.3'
 # end
+
+gem 'rubocop'
+
+gem 'octokit'
